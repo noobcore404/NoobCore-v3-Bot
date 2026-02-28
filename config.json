@@ -48,6 +48,10 @@
   "creator": [
     "61565898444113"
   ],
+  "reactBy": {
+    "delete": ["😡", "🤬", "😾", "😠"],
+    "kick": ["🦶", "👟", "🥿"]
+  },
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
