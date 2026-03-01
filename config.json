@@ -14,7 +14,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "💻ɴᴏᴏʙ ᴄᴏʀᴇ⚡",
+  "nickNameBot": "yuto",
   "prefix": "-",
   "allowAdminNoPrefix": true,
   "adminOnly": {
@@ -44,10 +44,10 @@
     "2177252409470039"
   ],
   "adminBot": [
-    "100077764623961"
+    "61561982970881"
   ],
   "creator": [
-    "61565898444113"
+    "61561982970881"
   ],
   "reactBy": {
     "delete": ["😡", "🤬", "😾", "😠"],
